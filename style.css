@@ -1,0 +1,14 @@
+body {
+    background-color: white;
+}
+header {
+    height: 50px;
+    text-align: center;
+    background-color: blue;
+    color: white;
+}
+
+footer {
+    height: 200px;
+    background-color: blue;
+}
